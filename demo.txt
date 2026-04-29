@@ -1,4 +1,1 @@
-hi this is after changes
-and this is for conflict
-part2
-this is totally different one
+This file is created previously before edited.
